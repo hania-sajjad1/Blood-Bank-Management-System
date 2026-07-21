@@ -95,9 +95,87 @@ This project helped me gain practical experience in:
 
 ---
 
-## 📷 Project Preview
+## 📷 Project Screenshots
 
-Screenshots of the project are available in the LinkedIn project showcase.
+### 🏠 Project Overview
+
+The cover page provides an overview of the Blood Bank Management System and the technologies used to develop the project.
+
+![Project Overview](screenshots/cover.png)
+
+---
+
+### 📊 Dashboard
+
+The dashboard serves as the central hub of the system, providing quick access to all modules and displaying an organized interface for managing blood bank operations.
+
+![Dashboard](Screenshots/Dashboard.PNG)
+
+---
+
+### 👤 Donor Management
+
+This module allows users to add, update, view, and delete donor records while maintaining complete donor information.
+
+![Donor Management](Screenshots/DonorManagement.PNG)
+
+---
+
+### 🏥 Patient Management
+
+The patient management module stores patient details and helps manage patient records efficiently.
+
+![Patient Management](Screenshots/PatientManagement.PNG)
+
+---
+
+### 🩸 Blood Bank Management
+
+This section manages blood bank information and maintains the overall blood bank records.
+
+![Blood Bank Management](Screenshots/BloodBank.PNG)
+
+---
+
+### 🧪 Blood Units
+
+The blood units module keeps track of available blood groups and their quantities in the inventory.
+
+![Blood Units](Screenshots/BloodUnits.PNG)
+
+---
+
+### 📋 Blood Requests
+
+This module manages blood requests, allowing users to record and process requests efficiently.
+
+![Blood Requests](Screenshots/BloodRequests.PNG)
+
+---
+
+### 👨‍💼 Staff Management
+
+The staff management module is used to maintain staff information, including adding, updating, and viewing staff records.
+
+![Staff Management](Screenshots/StaffManagement.PNG)
+
+---
+
+### 📈 Reports
+
+The reports module provides an overview of blood inventory and other important system records for better decision-making.
+
+![Reports](Screenshots/Reports.PNG)
+
+---
+
+## 🚀 Future Improvements
+
+- User authentication and role-based access
+- Email notifications
+- Blood request approval workflow
+- Search and filtering
+- Responsive mobile interface
 
 ---
 
