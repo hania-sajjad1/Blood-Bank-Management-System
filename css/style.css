@@ -1,0 +1,93 @@
+body{
+    font-family: Arial;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    color: darkred;
+}
+
+h2{
+    color: #b30000;
+}
+
+a{
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px 15px;
+    background-color: #d10000;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover{
+    background-color: darkred;
+}
+
+form{
+    background: white;
+    padding: 20px;
+    width: 350px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #ccc;
+}
+
+input, select{
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: darkred;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.dashboard{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.dashboard a{
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+
+table{
+    background-color: white;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: darkred;
+    color: white;
+    padding: 10px;
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+}
+.logout{
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.search-btn{
+    padding: 6px 12px;
+    font-size: 14px;
+    width: auto;
+}
