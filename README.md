@@ -1,6 +1,6 @@
 # 🩸 Blood Bank Management System
 
-![Banner](screenshots/cover.PNG)
+![Banner](Screenshots/cover.PNG)
 
 A web-based **Blood Bank Management System** developed using **HTML, CSS, PHP, and MySQL**. This project is designed to simplify and manage blood bank operations 
 by maintaining donor records, patient information, blood inventory, blood requests, staff details, and reports in one centralized system.
