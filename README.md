@@ -2,6 +2,12 @@
 
 ![Banner](Screenshots/cover.PNG)
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
 A web-based **Blood Bank Management System** developed using **HTML, CSS, PHP, and MySQL**. This project is designed to simplify and manage blood bank operations 
 by maintaining donor records, patient information, blood inventory, blood requests, staff details, and reports in one centralized system.
 
@@ -96,14 +102,6 @@ This project helped me gain practical experience in:
 ---
 
 ## 📷 Project Screenshots
-
-### 🏠 Project Overview
-
-The cover page provides an overview of the Blood Bank Management System and the technologies used to develop the project.
-
-![Project Overview](screenshots/cover.png)
-
----
 
 ### 📊 Dashboard
 
