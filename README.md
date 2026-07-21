@@ -139,7 +139,7 @@ This section manages blood bank information and maintains the overall blood bank
 
 The blood units module keeps track of available blood groups and their quantities in the inventory.
 
-![Blood Units](Screenshots/BloodUnits.PNG)
+![Blood Units](Screenshots/BloodUnit.PNG)
 
 ---
 
@@ -147,7 +147,7 @@ The blood units module keeps track of available blood groups and their quantitie
 
 This module manages blood requests, allowing users to record and process requests efficiently.
 
-![Blood Requests](Screenshots/BloodRequests.PNG)
+![Blood Requests](Screenshots/BloodRequest.PNG)
 
 ---
 
